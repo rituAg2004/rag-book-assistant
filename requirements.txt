@@ -1,0 +1,31 @@
+# Core Mistral SDK
+mistralai
+
+# RAG Orchestration Framework
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langchain-text-splitters
+
+# Vector Database & Embeddings
+chromadb
+faiss-cpu
+sentence-transformers
+
+# Document Parsing & Ingestion
+pypdf
+python-docx
+unstructured
+beautifulsoup4
+
+# Environment & Utilities
+python-dotenv
+pydantic
+tiktoken
+numpy
+
+# Serving & Interface (API / UI)
+fastapi
+uvicorn
+streamlit
